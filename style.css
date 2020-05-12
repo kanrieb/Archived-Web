@@ -2,6 +2,11 @@ html {
   scroll-behavior: smooth;
 }
 
+h1{
+  color:black;
+  font-family: "Courier New", Courier, monospace;
+}
+
 h3{
   color:black;
   font-family: "Courier New", Courier, monospace;
