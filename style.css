@@ -39,8 +39,8 @@ p.title{
 
 p.desc{
   text-align: left;
-  color:black;
-  font-size:80%;
+  color:#505050;
+  font-size:70%;
   width:60%;
 }
 
@@ -51,9 +51,9 @@ p.desc{
 ul {
 list-style-type:disc; 
 text-align:left; 
-color:black;
+color:#505050;
   font-family: "Times New Roman", Times, serif;
-  font-size:80%;
+  font-size:70%;
   width:60%;
 }
 
