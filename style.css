@@ -44,6 +44,10 @@ p.desc{
   width:60%;
 }
 
+aboutme {
+  height:100%;
+}
+
 ul {
 list-style-type:disc; 
 text-align:left; 
