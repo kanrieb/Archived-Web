@@ -178,13 +178,15 @@ width: 35%;
 border: 12px solid #B22222;
 }
 
+.projects{
+  background-color: #DFDFDF;
+}
+
 .project-container {
   display: grid;
   grid-gap: 10px 10px;
   grid-template-columns: auto auto;
   padding: 20px;
-  background-color: #DFDFDF;
-  
 }
 
 .tooltip {
