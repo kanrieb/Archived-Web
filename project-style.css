@@ -40,12 +40,16 @@ body {
 
 .card {
   background-color: white;
-  padding: 20px;
-  margin-top: 20px;
+  padding: 30px;
   border-radius: 25px;
 }
 
+.github-card{
+  align: center;
+}
+
 .gist{
-  width: 300px;
+  width: auto;
   height: auto;
+  padding: 30px;
 }
