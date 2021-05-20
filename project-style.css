@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  padding: 20px;
+  padding: 40px;
   background: #286E38;
 }
 
@@ -32,7 +32,6 @@ body {
 
 
 .header {
-  padding: 10px;
   font-size: 40px;
   text-align: left;
   text-shadow: 0 2px 2px rgb(0 0 0 / 50%);
