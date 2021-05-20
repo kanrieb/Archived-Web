@@ -1,4 +1,4 @@
-#Personal Website
+# Personal Website
 
 This website was created by me to act as a sort of virtual resume.
 I will do my best to update it with projects and experiences, to make sure that it remains current. 
