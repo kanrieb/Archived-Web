@@ -191,14 +191,13 @@ border: 12px solid #B22222;
 
 .project-item {
   transition: transform .2s;
-  width: 200px;
-  height: 200px;
+  padding: 20px;
   text-align: center;
 border: 2px solid black;
 }
 
 .project-item:hover{
-  transform: scale(1.2);
+  transform: scale(1.1)
 }
 
 .tooltip {
