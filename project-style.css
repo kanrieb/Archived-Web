@@ -35,6 +35,9 @@ body {
   font-size: 40px;
   text-align: left;
   text-shadow: 0 2px 2px rgb(0 0 0 / 50%);
+  color: white;
+  font-size: clamp(1.2rem,calc(1rem + 3.5vw),4rem);
+  font-family: Gotham Narrow SSm A,Gotham Narrow SSm B,Rubik,Lato,Lucida Grande,Lucida Sans Unicode,Tahoma,Sans-Serif;
 }
 
 .card {
