@@ -23,7 +23,6 @@
   }
 
 h1{
-    font-family: Heebo;
     font-style: normal;
     font-weight: bold;
     font-size: 44px;
@@ -33,14 +32,13 @@ h1{
 
 h1.title {
     position: absolute;
-    width: 506px;
+    width: 570px;
     height: 105px;
     left: 148px;
-    top: 110px;
+    top: 160px;
 }
 
 p {
-    font-family: Heebo;
     font-style: normal;
     font-weight: normal;
     color: #21243D;
@@ -58,7 +56,6 @@ p.desc{
 
 p.subtitle{
     position: absolute;
-    width: 129px;
     height: 60px;
     left: 148px;
     font-size: 22px;
@@ -67,10 +64,9 @@ p.subtitle{
 
 .profile{
     position: absolute;
-    height: 243px;
-    width: 243px;
-    left: 760px;
-    top: 210px;
+    width: 300px;
+    left: 385px;
+    top: 100px;
     max-width:100%;  
 
 }
@@ -95,7 +91,9 @@ img.profile{
   }
   
   .project-img {
+      position:absolute;
       object-fit: cover;
+      top: 100px;
   }
   
   .project-item:hover{
