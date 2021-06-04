@@ -22,19 +22,18 @@
   }
 
 h1{
-    border-radius: nullpx;
     font-family: Heebo;
     font-style: normal;
     font-weight: bold;
     font-size: 44px;
     line-height: 60px;
     color: #21243D;
-
 }
 
 h1.title {
-    height: 105px;
+    position: absolute;
     width: 506px;
+    height: 105px;
     left: 148px;
     top: 228px;
 }
