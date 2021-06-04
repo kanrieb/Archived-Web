@@ -98,21 +98,6 @@ img.profile{
 }
 
   
-  .one {
-    position: absolute;
-    top: 25%;
-    height: 100px;
-    width: 35%;
-    margin-top: -50px; 
-    text-align: right;
-  }
-  
-  .two { 
-    top:25%;
-    left:50%;
-    text-align: left;
-    font-size: 22px;
-  }
 
 .project-item {
     transition: transform .2s;
