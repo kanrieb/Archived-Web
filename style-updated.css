@@ -3,6 +3,7 @@
     background-color: transparent;
     position: fixed;
     top: 0;
+    left: 148px;
     width: 100%;
     z-index: 1;
   }
@@ -35,15 +36,13 @@ h1.title {
     width: 506px;
     height: 105px;
     left: 148px;
-    top: 228px;
+    top: 110px;
 }
 
 p {
     font-family: Heebo;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 23px;
     color: #21243D;
 }
 
@@ -53,6 +52,17 @@ p.desc{
     height: 66px;
     left: 148px;
     top: 373px;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+p.subtitle{
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 148px;
+    font-size: 22px;
+    line-height: 60px;
 }
 
 .profile{
@@ -61,6 +71,30 @@ p.desc{
     width: 243px;
     left: 760px;
     top: 210px;
-    border-radius: 0px;
-
+    border-radius: 50%; 
+    max-width:100%; 
+    
 }
+
+.projects{
+    position: absolute;
+    width: 1152px;
+    height: 396px;
+    left: 0px;
+    top: 595px;
+    background: #EDF7FA;
+}
+
+.project-item {
+    transition: transform .2s;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .project-img {
+      object-fit: cover;
+  }
+  
+  .project-item:hover{
+    transform: scale(1.1)
+  }
