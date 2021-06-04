@@ -97,27 +97,20 @@ img.profile{
     border-radius: 4px;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    position: relative;
-    padding: 10px;
-    width:100%;
-  
-  }
   
   .one {
-  position: absolute;
+    position: absolute;
     top: 25%;
     height: 100px;
-  width: 35%;
+    width: 35%;
     margin-top: -50px; 
+    text-align: right;
   }
   
   .two { 
-    grid-column-start: 2;
-    grid-column-end: 4;
-    text-align: center;
+    top:25%;
+    left:50%;
+    text-align: left;
     font-size: 22px;
   }
 
